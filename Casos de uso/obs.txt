@@ -1,0 +1,4 @@
+unificar casos de uso
+tirar includes e extends
+colocar includes no visualizar produtos
+colocar o nome do caso de uso no dss
