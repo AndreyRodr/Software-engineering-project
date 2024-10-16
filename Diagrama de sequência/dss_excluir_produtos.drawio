@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="hlSVbB_dpRHQgX4thN8F">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-3" value="Diagrama de Sequência de Sistema de Excluir Produto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-4" value="Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="134" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="730" as="sourcePoint" />
+            <mxPoint x="198" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="Aa80dCIvE2JE6Z5kuCe7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="518" y="730" as="sourcePoint" />
+            <mxPoint x="518" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="510" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-9" value="Clica na opção de excluir do item desejado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="219" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="Aa80dCIvE2JE6Z5kuCe7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="518" y="730" as="sourcePoint" />
+            <mxPoint x="518" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="498.5" y="250.5" width="41" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" edge="1" parent="1" target="Aa80dCIvE2JE6Z5kuCe7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="276" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-13" value="Pergunta se o usuário deseja continuar a ação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223" y="255" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-14" value="Alternativa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="341" width="390" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-15" value="Se o usuário confirmar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="339" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="310" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-17" value="Clica na opção de confirmação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263" y="289" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="411.47" y="412.54" width="215.08" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="416" as="sourcePoint" />
+            <mxPoint x="514" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-20" value="Mensagem dizendo que o item foi excluído" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="395" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="450" as="sourcePoint" />
+            <mxPoint x="550" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-22" value="Mensagem dizendo que a ação foi cancelada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223" y="501" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="525" as="sourcePoint" />
+            <mxPoint x="513" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aa80dCIvE2JE6Z5kuCe7-24" value="Se o usuário não confirmar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="447" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
