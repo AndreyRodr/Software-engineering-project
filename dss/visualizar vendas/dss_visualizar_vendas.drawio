@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="pRZuEAI5twmfPaRpf5iY">
+    <mxGraphModel dx="1687" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-24" value="Mostra o faturamento total seguido das vendas separadamente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="216" y="294" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-2" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-3" value="Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="137" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="360" as="sourcePoint" />
+            <mxPoint x="224" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="QmE9EtpHazcwyQY2cu0v-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="732" as="sourcePoint" />
+            <mxPoint x="572" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Diagrama de Sequência do Sistema de Visualizar Vendas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="214" y="31" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QmE9EtpHazcwyQY2cu0v-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223.5" y="210" as="sourcePoint" />
+            <mxPoint x="548.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="QmE9EtpHazcwyQY2cu0v-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="351" as="sourcePoint" />
+            <mxPoint x="572" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-17" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="552" y="224" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;startArrow=openThin;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QmE9EtpHazcwyQY2cu0v-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223" y="249" as="sourcePoint" />
+            <mxPoint x="553" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-19" value="Vai para o menu de Sessão de Análise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="278" y="189" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-20" value="Abre o menu de Sessão de Análise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="227" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="QmE9EtpHazcwyQY2cu0v-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223.5" y="280" as="sourcePoint" />
+            <mxPoint x="548.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-22" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="552" y="294" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;startArrow=openThin;startFill=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="QmE9EtpHazcwyQY2cu0v-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223" y="319" as="sourcePoint" />
+            <mxPoint x="553" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmE9EtpHazcwyQY2cu0v-25" value="Seleciona a opção de Visualizar Vendas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="257" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
