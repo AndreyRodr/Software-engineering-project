@@ -35,9 +35,9 @@ class BancoDeDados:
         return None
 
     def editaProduto(self, idProduto) -> None:
-        produto = self.verificaID(idProduto)
+        produto = self.verificaID(self.__produtos, idProduto)
         if produto:
-            produto.setName(input("Novo nome do produto: "))
+            produto.setNome(input("Novo nome do produto: "))
             produto.setPreco(float(input("Novo preço do produto: ")))
             produto.setDescricao(input("Nova descrição do produto: "))
             produto.setQuantidade(int(input("Nova quantidade do produto: ")))
